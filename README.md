@@ -1,4 +1,4 @@
-# #TWS![Screenshot (730)](https://github.com/priyakakumariops/ThreeTierApp/assets/136331805/8a373ccd-e14d-4ee3-bbf0-c38ad2a5dbc4)
+# [Screenshot (730)](https://github.com/priyakakumariops/ThreeTierApp/assets/136331805/8a373ccd-e14d-4ee3-bbf0-c38ad2a5dbc4)
 ThreeTierAppChallenge
 
 ## Overview
