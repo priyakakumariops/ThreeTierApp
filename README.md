@@ -1,4 +1,5 @@
-# [Screenshot (730)](https://github.com/priyakakumariops/ThreeTierApp/assets/136331805/8a373ccd-e14d-4ee3-bbf0-c38ad2a5dbc4)
+# ![Screenshot (730)](https://github.com/priyakakumariops/ThreeTierApp/assets/136331805/fc55fe5a-1784-4631-bce4-223e6609dc26)
+
 ThreeTierAppChallenge
 
 ## Overview
